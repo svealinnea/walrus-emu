@@ -3,12 +3,8 @@ $(document).ready(function() {
     $("#walrus-showing").toggle();
     $("#walrus-hidden").toggle();
   });
-  
-});
-  $(".clickable").click(function(){
+  $(".clickable2").click(function(){
     $("#emu-showing").toggle();
     $("#emu-hidden").toggle();
-  })
-})
-
-can you see this
+  });
+});
